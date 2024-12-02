@@ -41,13 +41,14 @@ The game lets the player manage different types of animals (cow, chicken, sheep)
 
 ## Project Information
 
-- **Project Name**: Farm Management System
-- **University**: Uttara University
+- **Uttara University**
+- **Team Name**: Team Notepad++
+- **Project Name**: Virtual Farming Game
 - **Faculty Name**: Nahrin Jannat
 - **Course Name**: Object Oriented Programming
 - **Project Type**: Lab Final Project
 - **Group Members**:
-  - **Member 1**: [Name], [ID]
+  - **Member 1**: NAZMUL HAQUE HIMU, 2233081403
   - **Member 2**: [Name], [ID]
   - **Member 3**: [Name], [ID]
   - **Member 4**: [Name], [ID]
