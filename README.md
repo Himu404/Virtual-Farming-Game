@@ -1,4 +1,4 @@
-# Farm Management System - README
+# Virtual Farming Game
 
 ## Overview
 
@@ -43,7 +43,6 @@ The game lets the player manage different types of animals (cow, chicken, sheep)
 
 - **Uttara University**
 - **Team Name**: Team Notepad++
-- **Project Name**: Virtual Farming Game
 - **Faculty Name**: Nahrin Jannat
 - **Course Name**: Object Oriented Programming
 - **Project Type**: Lab Final Project
