@@ -42,6 +42,10 @@ The game lets the player manage different types of animals (cow, chicken, sheep)
 ## Project Information
 
 - **Project Name**: Farm Management System
+- **University**: Uttara University
+- **Faculty Name**: Nahrin Jannat
+- **Course Name**: Object Oriented Programming
+- **Project Type**: Lab Final Project
 - **Group Members**:
   - **Member 1**: [Name], [ID]
   - **Member 2**: [Name], [ID]
